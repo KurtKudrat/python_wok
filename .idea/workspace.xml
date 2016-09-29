@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be17f34c-727b-45ab-b195-3a91b18c9852" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/password_management.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="python_wok.iws" />
@@ -330,7 +329,14 @@
       <option name="project" value="LOCAL" />
       <updated>1475177253614</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="password locker application for coding practice">
+      <created>1475177345642</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1475177345642</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -370,7 +376,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1st commit add print" />
     <MESSAGE value="for loop practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="for loop practice" />
+    <MESSAGE value="password locker application for coding practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="password locker application for coding practice" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
