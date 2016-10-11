@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be17f34c-727b-45ab-b195-3a91b18c9852" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loop.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_work_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tuple.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conditional_statement.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="python_wok.iws" />
@@ -25,21 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="tuple.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tuple.py">
+      <file leaf-file-name="conditional_statement.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/conditional_statement.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="loop.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/loop.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="372">
+              <caret line="46" column="33" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -67,6 +55,7 @@
         <option value="$PROJECT_DIR$/python_work_test.py" />
         <option value="$PROJECT_DIR$/tuple.py" />
         <option value="$PROJECT_DIR$/loop.py" />
+        <option value="$PROJECT_DIR$/conditional_statement.py" />
       </list>
     </option>
   </component>
@@ -126,7 +115,7 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.tuple">
+  <component name="RunManager" selected="Python.conditional_statement">
     <configuration default="false" name="python_work_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,6 +146,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_wok" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuple.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="conditional_statement" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_wok" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/conditional_statement.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -295,14 +301,16 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.python_work_test" />
       <item index="1" class="java.lang.String" itemvalue="Python.tuple" />
+      <item index="2" class="java.lang.String" itemvalue="Python.conditional_statement" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.tuple" />
-        <item index="1" class="java.lang.String" itemvalue="Python.python_work_test" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.conditional_statement" />
+        <item index="1" class="java.lang.String" itemvalue="Python.tuple" />
+        <item index="2" class="java.lang.String" itemvalue="Python.python_work_test" />
       </list>
     </recent_temporary>
   </component>
@@ -373,7 +381,14 @@
       <option name="project" value="LOCAL" />
       <updated>1475177451548</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="loop file added">
+      <created>1475858336388</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1475858336388</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -415,7 +430,8 @@
     <MESSAGE value="for loop practice" />
     <MESSAGE value="password locker application for coding practice" />
     <MESSAGE value="list" />
-    <option name="LAST_COMMIT_MESSAGE" value="list" />
+    <MESSAGE value="loop file added" />
+    <option name="LAST_COMMIT_MESSAGE" value="loop file added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -462,6 +478,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tuple.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -470,10 +494,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/loop.py">
+    <entry file="file://$PROJECT_DIR$/conditional_statement.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="372">
+          <caret line="46" column="33" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
           <folding />
         </state>
       </provider>
