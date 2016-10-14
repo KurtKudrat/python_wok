@@ -27,4 +27,17 @@ for user in new_user:
         print("This user name is unique.")
 
 
+#========================================================
 
+num =[1,3,4,5,6,2,9,7,8]
+num.sort()
+
+for n in num:
+    if n == 1:
+        print ("\n1st")
+    elif n == 2:
+        print ("\n2nd")
+    elif n == 3:
+        print ("\n3rd")
+    else:
+        print ("\n"+str(n) + "th")
