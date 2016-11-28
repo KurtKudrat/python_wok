@@ -1,3 +1,4 @@
+'''
 alian_0 = {'color' : 'green', 'points' : 5}
 
 
@@ -38,3 +39,20 @@ for name in friends_favorite_num:
     if name in friends:
         print(" Hi " + name.title() + " I see your favorite number is "+
               str(friends_favorite_num[name]).title())
+
+
+'''
+
+rivers = {
+    'nil': 'egypt',
+    'changjiang': 'china',
+    'mississippi river':'USA',
+}
+
+for river,country in rivers.items():
+    print('The ' + river.title() + ' run through '+ country.title())
+
+for rivername in rivers.keys():
+    print(rivername.title())
+for countryname in rivers.values():
+    print(countryname.title())
