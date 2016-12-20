@@ -140,7 +140,8 @@ for name, nums in friends_favorite_num.items():
 cities = {
     'Tokyo':{'country':'Japan','population':'14million'},
     'Los Angeles':{'country':'USA','population':'4million'},
-    'Washington DC':{'country':'USA','population':'66k'}
+    'Washington DC':{'country':'USA','population':'66k'},
+    'Boston':{'country':'USA','population':'65k'}
 }
 
 
