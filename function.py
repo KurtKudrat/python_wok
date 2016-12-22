@@ -159,8 +159,13 @@ print(user_profile)
 
 
 '''
+# import print_models
+# import print_something from print_models
+# import print_something from print_models as printing
+# import print_models *
+# import print_models as printing
 
-
+from print_models import print_something as printing
 
 def make_cars(make,model,**other_info):
 
@@ -179,7 +184,8 @@ cars = make_cars('acura','TLX',
                  celender ='2.4' )
 
 
-print(cars)
+#printing.print_something(cars)
+printing(cars)
 
 
 
