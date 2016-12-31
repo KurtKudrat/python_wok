@@ -1,0 +1,11 @@
+from restaurant import Restaurant
+import user
+
+
+my_new_restaurant = Restaurant('ktp','thai')
+my_new_restaurant.describe_restaurant()
+
+
+
+new_admin = user.Admin('kurt','kudrat',26,'male')
+new_admin.privileges.show_privileges()
