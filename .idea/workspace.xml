@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be17f34c-727b-45ab-b195-3a91b18c9852" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file_and_exceptions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_text.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="python_wok.iws" />
@@ -27,8 +25,8 @@
       <file leaf-file-name="file_and_exceptions.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/file_and_exceptions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+            <state relative-caret-position="273">
+              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -520,7 +518,14 @@
       <option name="project" value="LOCAL" />
       <updated>1483226664978</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="working with file">
+      <created>1483469617908</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1483469617908</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TodoView">
@@ -597,7 +602,8 @@
     <MESSAGE value="classes inheritance" />
     <MESSAGE value="make an instance from a class , setting a default value for an attribute,modifying attribute value, inheritance," />
     <MESSAGE value="import class, import multiple Modules" />
-    <option name="LAST_COMMIT_MESSAGE" value="import class, import multiple Modules" />
+    <MESSAGE value="working with file" />
+    <option name="LAST_COMMIT_MESSAGE" value="working with file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -821,8 +827,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/file_and_exceptions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        <state relative-caret-position="273">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
