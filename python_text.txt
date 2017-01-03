@@ -1,0 +1,4 @@
+In Python you can read from a file.
+In Python you can automate boring stuff.
+In Python you can build a website.
+In Python you can you can do data analyst.
