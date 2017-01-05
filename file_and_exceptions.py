@@ -51,7 +51,7 @@ while True :
         break
 
 
-'''
+
 
 
 
@@ -66,9 +66,65 @@ while True :
 
 
 
+# Addition ValueError
+
+while True:
+    num_1 = input("please enter the first number.")
+
+    if num_1 == 'q':
+        break
+
+    num_2 = input('please enter the second number.')
+
+    if num_2 == 'q':
+        break
+
+    try:
+
+        answer = int(num_1) + int(num_2)
+
+    except ValueError:
+        print('please enter the valid number.')
+    else:
+
+        print(answer)
 
 
 
+
+
+
+def read_txt(filename):
+    try:
+
+        with open(filename) as f_obj:
+            content = f_obj.read()
+            print(content)
+    except FileNotFoundError:
+        #print('File ' + filename + ' dose not exist')
+        pass
+read_txt('cat.txt')
+read_txt('dog.txt')
+
+
+'''
+
+#count the phrase
+
+
+def count_the_phrase(filename):
+
+    with open(filename) as f_obj:
+        content = f_obj.read()
+
+        count_num = content.lower().count('the')
+        print(count_num)
+
+
+
+
+
+count_the_phrase('Adventures of Huckleberry Finn.txt')
 
 
 
