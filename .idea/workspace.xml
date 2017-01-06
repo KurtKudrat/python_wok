@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be17f34c-727b-45ab-b195-3a91b18c9852" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cities.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file_and_exceptions.py" afterPath="$PROJECT_DIR$/file_and_exceptions.py" />
     </list>
     <ignored path="python_wok.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,61 +23,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="file_and_exceptions.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/file_and_exceptions.py">
+      <file leaf-file-name="test_cities.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_cities.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="573">
-              <caret line="195" column="27" lean-forward="false" selection-start-line="195" selection-start-column="27" selection-end-line="195" selection-end-column="27" />
-              <folding />
+            <state relative-caret-position="240">
+              <caret line="16" column="53" lean-forward="false" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="username.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/username.json">
+      <file leaf-file-name="city_function.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/city_function.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="favorite number.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/favorite number.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="3" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Adventures of Huckleberry Finn.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Adventures of Huckleberry Finn.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="12362" column="0" lean-forward="false" selection-start-line="12362" selection-start-column="0" selection-end-line="12362" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cat.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cat.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dog.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_wok/dog.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+            <state relative-caret-position="60">
+              <caret line="4" column="50" lean-forward="false" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -129,6 +91,9 @@
         <option value="$PROJECT_DIR$/Adventures of Huckleberry Finn.txt" />
         <option value="$PROJECT_DIR$/favorite number.json" />
         <option value="$PROJECT_DIR$/file_and_exceptions.py" />
+        <option value="$PROJECT_DIR$/city_function" />
+        <option value="$PROJECT_DIR$/city_function.py" />
+        <option value="$PROJECT_DIR$/test_cities.py" />
       </list>
     </option>
   </component>
@@ -189,41 +154,7 @@
       <recent name="$PROJECT_DIR$/python_wok" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.file_and_exceptions">
-    <configuration default="false" name="classes" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_wok" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_wok" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_wok/classes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ca" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_wok" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ca.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittests in test_cities">
     <configuration default="false" name="my_new_restaurant" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -273,6 +204,45 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_and_exceptions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="city_function" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_wok" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/city_function" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in test_cities" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_wok" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_cities.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -410,19 +380,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.classes" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ca" />
-      <item index="2" class="java.lang.String" itemvalue="Python.my_new_restaurant" />
-      <item index="3" class="java.lang.String" itemvalue="Python.standard_library" />
-      <item index="4" class="java.lang.String" itemvalue="Python.file_and_exceptions" />
+      <item index="0" class="java.lang.String" itemvalue="Python.my_new_restaurant" />
+      <item index="1" class="java.lang.String" itemvalue="Python.standard_library" />
+      <item index="2" class="java.lang.String" itemvalue="Python.file_and_exceptions" />
+      <item index="3" class="java.lang.String" itemvalue="Python.city_function" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in test_cities" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.file_and_exceptions" />
-        <item index="1" class="java.lang.String" itemvalue="Python.standard_library" />
-        <item index="2" class="java.lang.String" itemvalue="Python.my_new_restaurant" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ca" />
-        <item index="4" class="java.lang.String" itemvalue="Python.classes" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in test_cities" />
+        <item index="1" class="java.lang.String" itemvalue="Python.city_function" />
+        <item index="2" class="java.lang.String" itemvalue="Python.file_and_exceptions" />
+        <item index="3" class="java.lang.String" itemvalue="Python.standard_library" />
+        <item index="4" class="java.lang.String" itemvalue="Python.my_new_restaurant" />
       </list>
     </recent_temporary>
   </component>
@@ -598,8 +568,44 @@
       <option name="project" value="LOCAL" />
       <updated>1483584736442</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="store user input data in json file .">
+      <created>1483652912860</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1483652912860</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_cities - 2017.01.05 at 17h 04m 22s.xml">
+      <configuration name="Unittests in test_cities" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_cities - 2017.01.05 at 17h 05m 26s.xml">
+      <configuration name="Unittests in test_cities" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_cities - 2017.01.05 at 17h 09m 57s.xml">
+      <configuration name="Unittests in test_cities" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_cities - 2017.01.05 at 17h 12m 25s.xml">
+      <configuration name="Unittests in test_cities" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_cities - 2017.01.05 at 17h 14m 13s.xml">
+      <configuration name="Unittests in test_cities" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_cities - 2017.01.05 at 17h 20m 27s.xml">
+      <configuration name="Unittests in test_cities" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_cities - 2017.01.05 at 17h 21m 07s.xml">
+      <configuration name="Unittests in test_cities" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_cities - 2017.01.05 at 17h 21m 18s.xml">
+      <configuration name="Unittests in test_cities" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_cities - 2017.01.05 at 17h 23m 25s.xml">
+      <configuration name="Unittests in test_cities" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -612,14 +618,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22001588" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21780822" sideWeight="0.5059571" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21780822" sideWeight="0.4940429" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43972602" sideWeight="0.4940429" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -677,7 +683,8 @@
     <MESSAGE value="import class, import multiple Modules" />
     <MESSAGE value="working with file" />
     <MESSAGE value="working with file &amp; more practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="working with file &amp; more practice" />
+    <MESSAGE value="store user input data in json file ." />
+    <option name="LAST_COMMIT_MESSAGE" value="store user input data in json file ." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -908,22 +915,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_wok/dog.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cat.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python_wok/Adventures of Huckleberry Finn">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -940,15 +931,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Adventures of Huckleberry Finn.txt">
+    <entry file="file://$PROJECT_DIR$/favorite number.jason">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="12362" column="0" lean-forward="false" selection-start-line="12362" selection-start-column="0" selection-end-line="12362" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/favorite number.jason">
+    <entry file="file://$PROJECT_DIR$/file_and_exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="195" column="27" lean-forward="false" selection-start-line="195" selection-start-column="27" selection-end-line="195" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/username.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -964,19 +963,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/username.json">
+    <entry file="file://$PROJECT_DIR$/Adventures of Huckleberry Finn.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="513">
+          <caret line="12362" column="0" lean-forward="false" selection-start-line="12362" selection-start-column="0" selection-end-line="12362" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/file_and_exceptions.py">
+    <entry file="file://$PROJECT_DIR$/cat.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="195" column="27" lean-forward="false" selection-start-line="195" selection-start-column="27" selection-end-line="195" selection-end-column="27" />
+        <state relative-caret-position="30">
+          <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_wok/dog.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/city_function">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/city_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="50" lean-forward="false" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cities.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="53" lean-forward="false" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
